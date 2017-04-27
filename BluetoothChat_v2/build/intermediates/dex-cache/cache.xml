@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.3.0_3fdeaf2bdafeb54d5f0e3f85080e1ac2c51a46dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat_v2\Application\libs\android-core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="66e5276749876594ca8272cdc96a74ac875e2c4e">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\transforms\dex\debug\folders\1000\2\android-core_e77925f818e42c3f6bc08a417789d4fc46a51b0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_84d7b706db54ddb53821f53eb75963996996fd63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3ad9bfc627a36220157b3a9adcbfdef4725a65f7">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_34bcb754dd71018f65a604ed74349c2f99096b6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.3.0_0e23e5b796cf1fdf953896100a6f1547ce735352\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d726fbbe1cfef7d4816034ed3ba31bd620af62d0">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_180a19f6c3ea10265cc3c7606230f906c9ae7901\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_6945fbc7257b84933dd18010c5e1ac120fdb3d52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ef00a22740ac85a4dc35c46e95d50d3c87c16242">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dbc7af60f53ca78066c4ecd88499b70dfbab9ea9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_1bdfe889d98e29f57eef77a619f01481a735f1dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_d1caed0fcab95b8bf1ec7c4681295b0b20feb119\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat_v2\Application\libs\AndroidSerial.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b13e8f03af6f38149cd2477b89ad679b78e0f290">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\transforms\dex\debug\folders\1000\2\AndroidSerial_84b147daa1fb17d0d4f13d898d7c51c3d3498ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_5c5a29495d73e8241a3a334b955990eff7fc3835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat_v2\Application\libs\usb-serial-for-android-b96f9ca.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7b4b6cf644251b1a3aac51017cec669f11725493">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\transforms\dex\debug\folders\1000\2\usb-serial-for-android-b96f9ca_0ccf2fad8f42e2b3b963f085f38cbf12bd1ac306\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_20c1be4d3950d0777c011426bff7bb27ed4a56b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat_v2\Application\libs\slf4j-android-1.6.1-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fe76e182946faad493a50968f3344e848b467b42">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\transforms\dex\debug\folders\1000\2\slf4j-android-1.6.1-RC1_5d6cb68d229d808d18be7547edd754a17b413951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat_v2\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_be4131628db0ec4ee015a2218f855ade2b199928\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75798ed048cea08dd38c04bc340bf0f6c0f5332f">
+        <dex dex="C:\Users\okudo\Documents\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_babb34c65acfc90688fe5b2b4dbfeba7c0fbbdc0\classes.dex" />
+    </item>
+
+</items>

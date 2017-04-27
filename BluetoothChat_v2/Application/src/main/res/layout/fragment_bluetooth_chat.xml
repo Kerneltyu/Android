@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright 2014 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/in"
+        android:layout_width="match_parent"
+        android:layout_height="226dp"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll"
+        android:layout_weight="0.01" />
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="231dp"
+        android:id="@+id/sample_main_relativelayout"
+        android:layout_weight="0.05">
+
+
+        <ToggleButton
+            android:text="LedButton"
+            android:layout_width="100sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/led_button"
+            android:layout_marginBottom="37dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <ToggleButton
+            android:text="BuzzerButton"
+            android:layout_width="100sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/buzzer_button"
+            android:layout_marginBottom="48dp"
+            android:layout_above="@+id/led_button"
+            android:layout_alignLeft="@+id/led_button"
+            android:layout_alignStart="@+id/led_button" />
+
+        <TextView
+            android:text="Buzzer"
+            android:layout_width="100sp"
+            android:layout_height="40sp"
+            android:textSize="15pt"
+            android:id="@+id/textView"
+            android:layout_above="@+id/buzzer_button"
+            android:layout_alignLeft="@+id/buzzer_button"
+            android:layout_alignStart="@+id/buzzer_button"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:text="LED"
+            android:layout_width="60sp"
+            android:layout_height="40sp"
+            android:textSize="15pt"
+            android:id="@+id/textView2"
+            android:layout_alignLeft="@+id/led_button"
+            android:layout_alignStart="@+id/led_button"
+            android:layout_above="@+id/led_button" />
+
+        <ImageButton
+            android:src="@drawable/arrow044"
+            android:layout_width="70sp"
+            android:layout_height="70sp"
+            android:scaleType="fitXY"
+            android:layout_above="@+id/led_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="19dp"
+            android:layout_marginStart="19dp"
+            android:layout_marginBottom="13dp"
+            android:id="@+id/left_button" />
+
+        <ImageButton
+            android:src="@drawable/arrow042"
+            android:layout_width="70sp"
+            android:layout_height="70sp"
+            android:scaleType="fitXY"
+            android:layout_alignBottom="@+id/left_button"
+            android:layout_toRightOf="@+id/forward_button"
+            android:layout_toEndOf="@+id/forward_button"
+            android:id="@+id/right_button" />
+
+        <ImageButton
+            android:src="@drawable/arrow043"
+            android:layout_width="70sp"
+            android:layout_height="70sp"
+            android:scaleType="fitXY"
+            android:id="@+id/back_button"
+            android:layout_below="@+id/right_button"
+            android:layout_toRightOf="@+id/left_button"
+            android:layout_toEndOf="@+id/left_button" />
+
+        <ImageButton
+            android:src="@drawable/arrow041"
+            android:layout_width="70sp"
+            android:layout_height="70sp"
+            android:scaleType="fitXY"
+            android:id="@+id/forward_button"
+            android:layout_above="@+id/left_button"
+            android:layout_toRightOf="@+id/left_button"
+            android:layout_toEndOf="@+id/left_button" />
+
+
+    </RelativeLayout>
+</LinearLayout>
